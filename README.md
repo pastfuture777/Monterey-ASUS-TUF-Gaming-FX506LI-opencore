@@ -24,3 +24,5 @@ macOS on ASUS FX506LI
  macOS Monterey 12.0-12.2 tested
  :-------------------------:
 
+# Will be updated in the future, still under development.
+
