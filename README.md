@@ -1,1 +1,1 @@
-# Hackintosh_Asus-TUFGaming-FX506LI-Monterey
+# Monterey on Asus TUF-Gaming-FX506LI
