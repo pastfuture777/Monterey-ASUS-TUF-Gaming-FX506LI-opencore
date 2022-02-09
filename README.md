@@ -1,7 +1,7 @@
 # Monterey on ASUS TUF-Gaming-FX506LI
 OpenCore files & tips for ASUS TUF Gaming F15
 
-# ASUS TUF F15 FX506LI OpenCore OSX EFI
+# ASUS TUF F15 FX506LI OpenCore EFI
 This is made after I successfully installed and made most things fully functional on my laptop.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
