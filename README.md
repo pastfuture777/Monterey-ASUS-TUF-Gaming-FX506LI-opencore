@@ -21,8 +21,8 @@ This work is licensed under a
 
 macOS on ASUS FX506LI
 
- macOS Monterey 12.0-12.2 tested
+macOS Catalina, Big Sur, Monterey tested
  :-------------------------:
 
-# Will be updated in the future, still under development.
-
+# All file uploaded!
+# Instructions will be updated in the future!
