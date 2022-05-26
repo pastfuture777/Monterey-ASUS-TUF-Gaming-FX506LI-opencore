@@ -15,7 +15,7 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-**macOS Version: 12.2 Monterey**
+**macOS Version: Catalina, Big Sur, Monterey**
 
 **OpenCore Version: [0.7.7 Offical](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.7)**
 
